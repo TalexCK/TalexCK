@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TalexCK/TalexCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm TalexCK  
+I also use the name of FeOOH  
+
+Website: talexck.github.io

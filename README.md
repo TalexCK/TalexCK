@@ -1,4 +1,4 @@
-# I'm TalexCK  
+#Hi ,  I'm TalexCK  
 ![Static Badge](https://img.shields.io/badge/Website-talexck.space-blue?labelColor=Black&link=https%3A%2F%2Ftalexck.space)      ![Static Badge](https://img.shields.io/badge/Blog-me.talexck.space-orange?labelColor=Black&link=https%3A%2F%2Fme.talexck.space)
 
 

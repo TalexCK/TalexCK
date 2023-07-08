@@ -10,4 +10,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalexCK&layout=compact&theme=buefy)](https://talexck.space)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TalexCK&repo=ChineseChess&theme=buefy)](https://github.com/TalexCK/ChineseChess)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TalexCK&repo=TalexCKsToolBox&theme=buefy)](https://github.com/TalexCK/TalexCKsTooBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TalexCK&repo=TalexCKsToolBox&theme=buefy)](https://github.com/TalexCK/TalexCKsToolBox)

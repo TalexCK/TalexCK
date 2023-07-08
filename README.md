@@ -1,6 +1,6 @@
 # I'm TalexCK  
 
-https://badgen.net/badge/WebSite/talexck.space/blue
+![Static Badge](https://img.shields.io/badge/WebSite%2Ctalexck.space%2Cblue?link=https%3A%2F%2Ftalexck.space)
 
 
 [Docs](https://docs.talexck.space)

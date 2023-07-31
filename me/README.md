@@ -15,11 +15,7 @@ layout:
 
 # 欢迎
 
-大家好，我是Alex Tang，一名高中生，欢迎来到我的个人空间！
-
-在这里，我会分享我的生活、游戏、项目、数学学习和一些成就，希望能和大家交流和学习。
-
-我对编程和数学很感兴趣，也喜欢玩一些有趣的游戏，比如Minecraft和HearthStone。
+大家好，我是Alex Tang，一名高中生，欢迎来到一个数学世界！
 
 我有自己的网站 [TalexCKsSpace](https://talexck.space) ，你可以在那里看到我做过的项目与文章，也可以在[Github](https://github.com/TalexCK)上关注我
 

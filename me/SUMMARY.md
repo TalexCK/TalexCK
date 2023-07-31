@@ -17,7 +17,7 @@
 
 * [TalexCKsToolBox](projects/talexckstoolbox-mod/README.md)
   * [Fabric-1.20.1+](projects/talexckstoolbox-mod/fabric-1.20.1+.md)
-  * [TalexCKsToolBox Wiki](http://localhost:5000/s/EXJ5hxHVrbuXPEUYJeZR/)
+  * [TalexCKsToolBox Wiki](http://127.0.0.1:5000/s/EXJ5hxHVrbuXPEUYJeZR/)
 * [ChineseChess](projects/chinesechess/README.md)
   * [Chinese使用说明](projects/chinesechess/chinese-wiki.md)
   * [发布](blogs/chinesechess-publish.md)
